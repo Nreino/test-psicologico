@@ -12,12 +12,27 @@
 
 **Obtener todas las respuestas de un participante en particular**
 
+![image](https://github.com/user-attachments/assets/936accbb-9b64-4a8f-bb2b-28364a365592)
+
 **Muestra las preguntas y respuestas de un participante específico, ordenadas por la fecha de respuesta más reciente**
+
+![image](https://github.com/user-attachments/assets/da9331a9-e58e-4e39-9f93-131b3dab18b7)
 
 **Cuenta la cantidad de respuestas dadas por un participante específico**
 
+![image](https://github.com/user-attachments/assets/8b516198-cd7e-4851-bc7c-a11616e85f26)
+
 **Lista los nombres de los participantes que han respondido al menos una pregunta**
+
+![image](https://github.com/user-attachments/assets/adf9ab56-3fc9-441a-817f-80cdad2b8e9a)
 
 **Muestra las preguntas y respuestas de un participante específico, ordenadas por la fecha de respuesta más reciente**
 
+![image](https://github.com/user-attachments/assets/66ab0b0b-80ca-4b62-872d-c1922d10825a)
+
 **Muestra las preguntas de un test específico que han sido respondidas por al menos un participante**
+
+![image](https://github.com/user-attachments/assets/1fbaac7c-b4b6-4aac-957a-d2ee4dd1dc82)
+
+#### Base de datos para MySQL
+
