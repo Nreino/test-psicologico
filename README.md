@@ -8,5 +8,16 @@
 
 *Este proyecto proporciona una estructura clara y funcional para la gestión de datos de tests psicológicos, facilitando su almacenamiento y análisis. Con el modelo relacional bien diseñado, los profesionales de la psicología pueden extraer información valiosa de los datos recopilados y utilizarla para mejorar sus evaluaciones y estudios.*   
 
+## Ejercicios
 
+**Obtener todas las respuestas de un participante en particular**
 
+**Muestra las preguntas y respuestas de un participante específico, ordenadas por la fecha de respuesta más reciente**
+
+**Cuenta la cantidad de respuestas dadas por un participante específico**
+
+**Lista los nombres de los participantes que han respondido al menos una pregunta**
+
+**Muestra las preguntas y respuestas de un participante específico, ordenadas por la fecha de respuesta más reciente**
+
+**Muestra las preguntas de un test específico que han sido respondidas por al menos un participante**
