@@ -36,8 +36,9 @@
 
 ### Script
 
-[Ejercicios del ABP](https://github.com/Nreino/test-psicologico/blob/main/ejercicios%20del%20abp.sql)
+[Script ABP](https://github.com/Nreino/test-psicologico/blob/main/abp.sql)
 
 [Datos del ABP](https://github.com/Nreino/test-psicologico/blob/main/datos%20del%20abp%202.sql)
 
-[ABP](https://github.com/Nreino/test-psicologico/blob/main/abp.sql)
+[Ejercicios del ABP](https://github.com/Nreino/test-psicologico/blob/main/ejercicios%20del%20abp.sql)
+
