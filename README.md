@@ -34,4 +34,9 @@
 
 ![image](https://github.com/user-attachments/assets/1fbaac7c-b4b6-4aac-957a-d2ee4dd1dc82)
 
+### Script
+https://github.com/Nreino/test-psicologico/blob/main/modelo%20relacional.jpg
 
+https://github.com/Nreino/test-psicologico/blob/main/ejercicios%20del%20abp.sql
+
+https://github.com/Nreino/test-psicologico/blob/main/datos%20del%20abp%202.sql
